@@ -1,3 +1,5 @@
+# OOP - This program withdraws a card from a deck and then keeps shuffeling until one card is left
+
 import itertools
 import random
 
